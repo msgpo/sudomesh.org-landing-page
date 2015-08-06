@@ -1,6 +1,6 @@
-# SudoMesh landing page
+# SudoMesh Landing Page
 
-Attractive landing page for SudoMesh 
+attractive one pager for SudoMesh
+
+Leads back to Wiki
 https://sudoroom.org/wiki/Mesh
-
-
