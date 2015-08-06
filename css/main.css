@@ -452,6 +452,10 @@ header nav ul li a.bordered {
   border: 2px solid #e85151;
 }
 
+header #logo {
+  width: 150px;
+}
+
 #content {
   max-width: 68em;
   margin-left: auto;
