@@ -1,8 +1,7 @@
 # SudoMesh Landing Page
 
 attractive one pager for SudoMesh
-http://sudoroom.github.io/sudoMesh-Landing-Page/
-
+http://sudomesh.github.io/sudomesh.org-landing-page/
 
 Leads back to Wiki
 https://sudoroom.org/wiki/Mesh
